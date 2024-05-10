@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mylogin</string>
+    <string name="maps">AIzaSyAB_YX1hjxT69BkM3dvZeQ_y0tCqeJLHYM</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
